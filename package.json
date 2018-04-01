@@ -4,7 +4,7 @@
 	"description":"latte_lib",
 	"keywords":["latte", "latte_removeIdle"],
 	"author":"qiongtubao",
-	"main":"./lib/index.js",
+	"main":"index.js",
 	"repository":{
 		"type":"git",
 		"url":"https://github.com/qiongtubao/latte_removeIdle.git"
