@@ -1,0 +1,16 @@
+{
+	"name":"latte_removeIdle",
+	"version":"0.0.1",
+	"description":"latte_lib",
+	"keywords":["latte", "latte_removeIdle"],
+	"author":"qiongtubao",
+	"main":"./lib/index.js",
+	"repository":{
+		"type":"git",
+		"url":"https://github.com/qiongtubao/latte_removeIdle.git"
+	},
+	"dependencies":{
+
+	}
+	
+}
