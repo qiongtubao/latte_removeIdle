@@ -1,8 +1,8 @@
 {
-	"name":"latte_removeIdle",
-	"version":"0.0.1",
-	"description":"latte_lib",
-	"keywords":["latte", "latte_removeIdle"],
+	"name":"latte_removeidle",
+	"version":"0.0.2",
+	"description":"latte_removeidle",
+	"keywords":["latte_removeidle"],
 	"author":"qiongtubao",
 	"main":"index.js",
 	"repository":{
